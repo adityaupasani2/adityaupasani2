@@ -5,20 +5,20 @@
   <img src="https://raw.githubusercontent.com/adityaupasani2/adityaupasani2/main/assets/banner.png" alt="banner" />
 </p>
 
-<h1 align="center">Hi, I'm Aditya 👋</h1>
+<h1 align="left">Hi, I'm Aditya 👋</h1>
 
-<p align="center">
+<p align="left">
   <b>I don’t fight fires at 3AM. I design systems that don’t start them.</b>
 </p>
 
-<p align="center">
+<p align="left">
   CKA-certified Kubernetes engineer building secure, observable, production-grade platforms on AWS.<br/>
   Kubernetes (EKS) • Helm • Terraform • Docker • Linux • GitOps (ArgoCD) • Prometheus • CloudWatch
 </p>
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/aditya-upasani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -30,6 +30,14 @@
   <a href="mailto:adityaupasani29@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+---
+
+## ⚙️
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,aws,terraform,helm,docker,linux,git,githubactions,python,bash,prometheus,grafana" />
 </p>
 
 ---
