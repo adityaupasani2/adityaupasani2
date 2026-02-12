@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Upload a banner to your repo (recommended: assets/banner.png) and update the src below -->
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/banner.png" alt="banner" />
+  <img src="https://raw.githubusercontent.com/adityaupasani2/adityaupasani2/main/assets/banner.png" alt="banner" />
 </p>
 
 <h1 align="center">Hi, I'm Aditya 👋</h1>
@@ -39,30 +39,6 @@
 - 🔄 **GitOps Pipeline (ArgoCD)**  
   ➜ https://github.com/YOUR_USERNAME/k8s-gitops-pipeline
 
-## 🤝 Open to Collaborate On
-- Kubernetes / DevOps open-source tooling  
-- Cloud-native infrastructure platforms  
-- Observability & monitoring systems that actually help engineers  
-- FinOps & cost optimization tools  
-
-## 🧠 Currently Leveling Up
-- Multi-cluster Kubernetes patterns  
-- Advanced Prometheus + Grafana setups  
-- AWS Solutions Architect depth  
-- Practical SRE reliability patterns  
-
-## 💬 Ask Me About
-- Kubernetes architecture & best practices  
-- GitOps workflows (ArgoCD)  
-- AWS infra design (EKS/VPC/IAM)  
-- Container security & hardening  
-- Observability-first system design  
-
-## ⚡ Fun Fact
-Great infrastructure is invisible when it works.  
-If ops is bored, I did my job right.
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
