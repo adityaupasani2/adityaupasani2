@@ -34,11 +34,16 @@
 
 ---
 
+## Tech Stack
+
+---
+
 ## ⚙️
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,aws,terraform,helm,docker,linux,git,githubactions,python,bash,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,aws,terraform,helm,docker,linux,git,githubactions,python,bash,prometheus,grafana,nginx,postgres,mysql,go,jenkins,ansible,redis,vscode&perline=10" />
 </p>
+
 
 ---
 
