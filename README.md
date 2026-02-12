@@ -1,21 +1,78 @@
-# 💫 About Me:
-I don’t fight fires at 3AM.<br>I design systems that don’t start them.<br><br>CKA-certified Kubernetes engineer building secure, observable, production-grade platforms on AWS. I work with Kubernetes (EKS), Helm, Terraform, Docker, and Linux to design scalable architectures with strong RBAC, namespace isolation, and resource governance.<br><br>I focus on infrastructure automation, GitOps workflows, and metrics-driven observability using Prometheus and CloudWatch — turning telemetry into real architectural decisions. From container hardening and secrets management to CI/CD and cloud reliability, I build platforms that stay predictable under load and secure under pressure.<br><br>Because calm production isn’t luck,  it’s engineering.<br><br>👨‍💻 What I’m Building<br><br>• Currently engineering things that reduce chaos and increase control:<br><br>• Cloud Cost Optimizer (FinOps) – Hunting down wasted AWS spend and turning cloud bills into data-backed decisions.<br><br>• Infrastructure-as-Code (IaC) Validator – Catching risky Terraform configs before they embarrass production.<br><br>• Kubernetes GitOps Deployment Pipeline – ArgoCD-powered workflows that make deployments automatic, predictable, and drama-free.<br><br>🤝 Open to Collaborate On<br><br>• Anything that makes infrastructure smarter, safer, or more scalable:<br><br>• Open-source Kubernetes & DevOps tooling<br><br>• Cloud-native infrastructure platforms<br><br>• Observability systems that actually help engineers<br><br>• FinOps and cost-optimization frameworks<br><br>🆘 Currently Exploring / Need Help With<br><br>• Leveling up into deeper platform engineering territory:<br><br>• Advanced multi-cluster Kubernetes patterns<br><br>• Designing scalable observability architectures<br><br>• Contributing meaningfully to CNCF ecosystem projects<br><br>🌱 Learning Right Now<br><br>Sharpening the edge:<br><br>• Multi-cluster Kubernetes management<br><br>• Advanced Prometheus & Grafana setups<br><br>• AWS Solutions Architect depth<br><br>• Real-world SRE principles and reliability patterns<br><br>⚡ Fun Fact<br><br>I believe great infrastructure is invisible when it works.<br>If operations teams are bored, I’ve done my job right.<br><br>
+<!-- PROFILE README: Paste this into YOUR_USERNAME/README.md -->
 
+<p align="center">
+  <!-- Upload a banner to your repo (recommended: assets/banner.png) and update the src below -->
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/banner.png" alt="banner" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-upasani/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaupasani29@gmail.com) 
+<h1 align="center">Hi, I'm Aditya 👋</h1>
 
-# 💻 Tech Stack:
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adityaupasani2&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adityaupasani2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaupasani2&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <b>I don’t fight fires at 3AM. I design systems that don’t start them.</b>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adityaupasani2&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  CKA-certified Kubernetes engineer building secure, observable, production-grade platforms on AWS.<br/>
+  Kubernetes (EKS) • Helm • Terraform • Docker • Linux • GitOps (ArgoCD) • Prometheus • CloudWatch
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a> •
+  <a href="https://YOUR_BLOG/">Blog</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adityaupasani2&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 What I’m Building
+- **Cloud Cost Optimizer (FinOps)** — hunts AWS waste, recommends rightsizing, estimates savings.
+- **Infrastructure-as-Code (IaC) Validator** — flags risky Terraform patterns before `apply`.
+- **Kubernetes GitOps Deployment Pipeline** — ArgoCD workflows for predictable multi-env deploys.
+
+## 🚀 Featured Projects
+- 🛡 **Kubernetes Security Scanner** — CIS/NIST/PCI-style checks + YAML remediation.  
+  ➜ https://github.com/YOUR_USERNAME/k8s-security-scanner
+- 💰 **Cloud Cost Optimizer (FinOps)**  
+  ➜ https://github.com/YOUR_USERNAME/cloud-cost-optimizer
+- 🧱 **IaC Validator (Terraform)**  
+  ➜ https://github.com/YOUR_USERNAME/iac-validator
+- 🔄 **GitOps Pipeline (ArgoCD)**  
+  ➜ https://github.com/YOUR_USERNAME/k8s-gitops-pipeline
+
+## 🤝 Open to Collaborate On
+- Kubernetes / DevOps open-source tooling  
+- Cloud-native infrastructure platforms  
+- Observability & monitoring systems that actually help engineers  
+- FinOps & cost optimization tools  
+
+## 🧠 Currently Leveling Up
+- Multi-cluster Kubernetes patterns  
+- Advanced Prometheus + Grafana setups  
+- AWS Solutions Architect depth  
+- Practical SRE reliability patterns  
+
+## 💬 Ask Me About
+- Kubernetes architecture & best practices  
+- GitOps workflows (ArgoCD)  
+- AWS infra design (EKS/VPC/IAM)  
+- Container security & hardening  
+- Observability-first system design  
+
+## ⚡ Fun Fact
+Great infrastructure is invisible when it works.  
+If ops is bored, I did my job right.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" />
+</p>
