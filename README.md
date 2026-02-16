@@ -51,13 +51,9 @@
 
 ## 🚀 Featured Projects
 - 🛡 **Kubernetes Security Scanner** — CIS/NIST/PCI-style checks + YAML remediation.  
-  ➜ https://github.com/YOUR_USERNAME/k8s-security-scanner
-- 💰 **Cloud Cost Optimizer (FinOps)**  
-  ➜ https://github.com/YOUR_USERNAME/cloud-cost-optimizer
-- 🧱 **IaC Validator (Terraform)**  
-  ➜ https://github.com/YOUR_USERNAME/iac-validator
+  ➜ https://github.com/adityaupasani2/k8s-security-scanner
 - 🔄 **GitOps Pipeline (ArgoCD)**  
-  ➜ https://github.com/YOUR_USERNAME/k8s-gitops-pipeline
+  ➜ https://github.com/YOUR_USERNAME/gitops-pipeline
 
 
 ## 📊 GitHub Stats
