@@ -53,7 +53,7 @@
 - 🛡 **Kubernetes Security Scanner** — CIS/NIST/PCI-style checks + YAML remediation.  
   ➜ https://github.com/adityaupasani2/k8s-security-scanner
 - 🔄 **GitOps Pipeline (ArgoCD)**  
-  ➜ https://github.com/YOUR_USERNAME/gitops-pipeline
+  ➜ https://github.com/adityaupasani2/gitops-pipeline
 
 
 ## 📊 GitHub Stats
